@@ -1,0 +1,43 @@
+<nav>
+  <ul>
+   <li><a href="#">About</a></li>
+   <li><a href="#">Popular Videos</a></li>
+   <li><a href="#">Testimonials</a></li>
+  </ul>
+</nav>
+
+<section id="about">
+  <div>
+    <h1>Pandit Jawaharlal Nehru </h1>
+    <p>Pt. Jawaharlal Nehru was born in Allabahad on November 14, 1889. He received his early education at home under private tutors. At the age of fifteen, he went to England and after two years at Harrow, joined Cambridge University where he took his tripos in Natural Sciences. He was later called to the Bar from Inner Temple. He returned to India in 1912 and plunged straight into politics. Even as a student, he had been interested in the struggle of all nations who suffered under foreign domination. He took keen interest in the Sinn Fein Movement in Ireland. In India, he was inevitably drawn into the struggle for independence.</p>
+  </div>
+  <div>
+    <img src="https://static.toiimg.com/thumb/msid-82996972,width-1200,height-900,resizemode-4/.jpg" alt="nehru" id="image">
+    <p id="img-caption">
+     <em> The first Prime Minister of India</em>
+    </p>
+  </div>
+  <div id="tribute-info">
+    <p>In 1912, he attended the Bankipore Congress as a delegate, and became Secretary of the Home Rule League, Allahabad in 1919. In 1916 he had his first meeting with Mahatma Gandhi and felt immensely inspired by him. He organised the first Kisan March in Pratapgarh District of Uttar Pradesh in 1920. He was twice imprisoned in connection with the Non-Cooperation Movement of 1920-22.</p>
+    <p> Speech on Chacha Nehru for Children day 2022</p>
+<p>Jawaharlal Nehru was the first prime minister of India. He participated in the Indian National Movement under the guidance of Mahatma Gandhi. Nehru is the architect of the modern democratic republic of India.</p>
+
+<p>He is the son of Motilal Nehru, a lawyer. Nehru Completed his graduation from trinity college, Cambridge, he got trained to be a Barrister.</p>
+
+<p>He became one of the leaders of the Indian National Congress in 1920. In 1929, he became the president of the Congress party. He was interested to achieve Complete Independence from British Raj. From 1930 to 1947, Provincial elections happened, Muslim League formed the Quit India Movement, Second World War, and several issues that were going on.</p>
+
+<p>In 1947, we got independence, Nehru became the first Prime Minister of India. In 1950, The Constitution of India was put into practice which began with economic, social, and political reforms by an ambitious program.</p>
+
+<p>The Indian National Congress Party under Jawaharlal Nehru Guidance won continuously in 1951, 1957, and 1962.</p>
+
+   <p> He asked us to celebrate his birthday as children’s Day. </p>
+  </div>
+  <div>
+    <a href="https://en.wikipedia.org/wiki/Jawaharlal_Nehru" target="_blank" id="tribute-link">Learn More about Jawaharlal Nehru</a>
+  </div>
+</section>
+
+
+
+
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
